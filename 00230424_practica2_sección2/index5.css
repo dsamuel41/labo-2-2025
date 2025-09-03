@@ -64,13 +64,13 @@ p {}
     border-style: solid;
 }
 
-img{
+img {
     width: 15em;
     height: 15em;
     margin: 1em;
 }
 
-.item{
+.item {
     width: auto;
     height: auto;
     flex-grow: 1;
